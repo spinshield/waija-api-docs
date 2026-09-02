@@ -1,0 +1,10 @@
+{
+  "name": "waija-api-docs",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Waija Casino API documentation app",
+  "scripts": {
+    "start": "python3 -m http.server 4173",
+    "dev": "python3 -m http.server 4173"
+  }
+}
